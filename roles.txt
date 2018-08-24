@@ -1,0 +1,44 @@
+Manual Testing, Selenium Web-driver, Appium, Java, JIRA, GitHub, Android Studio and have good
+ understanding of STLC & SDLC.
+
+
+Who you are:
+As a Test Automation Practitioner you will design, build, test and deploy effective testing solutions which reduce the amount of manual effort in the testing process.
+You are responsible for applying automated tools to support the testing of applications across all phases of the Software Development Life Cycle (SDLC).
+You need to support the test team by recommending tools and processes to automate other test activities, such as test management, reporting, test data generation and defect management.
+What you値l do:
+Evaluate the functional and non-functional requirements for test-ability, test cases and use cases for suitability for automation.
+You will assist the development of the test automation strategy and focus specifically on maximizing reuse for regression purposes.
+Possess good knowledge in creating test plans and test strategies.
+Design, build and execute automated tests to validate applications using Selenium
+Identify regression testing needs, and create and maintain an Automated Regression Suite.
+Implement the strategy via developing, coding and executing test case and test script frameworks using automated tools such as Selenium.
+Provide timely project related data as required in applicable systems and ensure timely reporting and response to stakeholders.
+
+How we値l help you grow:
+You値l have access to all the technical and management training courses you need to become the expert you want to be
+You値l learn directly from expert developers in the field; our team leads love to mentor
+You have the opportunity to work in many different areas to figure out what really excites you.
+
+
+Required Technical and Professional Expertise
+
+Profound knowledge of Software Development Life Cycle and Testing life cycle.
+4 years of experience in Quality Assurance and Software Testing
+Automation hands on experience in Selenium and Cucumber or other automation tools
+Good understanding of front-end technologies and platforms, such as JavaScript, HTML5, and CSS3
+Understanding of REST
+User authentication and authorization between multiple systems, servers, and environments
+Experience with relational databases (Oracle, Microsoft SQL, IBM DB2)
+Programing experience in Java (or C++/C#/VB.Net)
+Have organizational, problem solving, and time management abilities
+Proven experience in Descriptive Programming skills.
+Expertise in writing SQL queries, analyzing query performance using query plans
+Experience in various kinds of application testing viz. Web applications, Client-Server applications, Database backend, Mainframe applications etc. would be an advantage.
+
+
+Preferred Tech and Prof Experience
+
+Prior experience working in an Agile environment
+Proven interpersonal communications and technical writing skills.
+Collaborate with a group of like-minded Automation Engineers and Manual Testers.
